@@ -1,7 +1,7 @@
 name: Contemporary Cruise Crew
 favicon: null
-layout_spectrum: 0.2212
-typography_spectrum: 0.31386
+layout_spectrum: 0.02451
+typography_spectrum: 0.91301
 title: CCC
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#20130b'
-    - '#494520'
-    - '#fefebc'
-    - '#d0694a'
-    - '#a9d25a'
-  brandStrength: 0.1875
-  lightness: 0.8125
-  saturation: 0.3125
-  rhythmicContrast: 1
+    - '#ffffff'
+    - '#080c0f'
+    - '#323e4d'
+    - '#6e6d73'
+    - '#bb405c'
+  brandStrength: 1
+  lightness: 0.5625
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
